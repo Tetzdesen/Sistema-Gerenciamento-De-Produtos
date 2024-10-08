@@ -43,7 +43,7 @@ O projeto segue o padrão MVC (Model-View-Controller), dividido em pacotes:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Tetzdesen/sistema-produtos.git
+   git clone https://github.com/Tetzdesen/Sistema-Gerenciamento-De-Estoque.git
    ```
 2. Compile o código:
    ```bash
