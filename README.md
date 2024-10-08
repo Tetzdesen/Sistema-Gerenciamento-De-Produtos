@@ -2,6 +2,11 @@
 
 Este é um sistema de gerenciamento de produtos desenvolvido em Java, utilizando conceitos de Programação Orientada a Objetos (POO), como herança, polimorfismo e interfaces. O sistema permite o cadastro, pesquisa, exclusão, alteração e listagem de produtos, com interface gráfica construída com a biblioteca Swing, seguindo o padrão de arquitetura MVC.
 
+## Autores
+
+ - Maik Ramos Maifredo
+ - Gabriel Tetzner Menegueti
+
 ## Funcionalidades
 
 - **Cadastro de Produtos:** Permite cadastrar produtos do tipo Alimento ou Eletrônico. Produtos Alimento possuem data de validade, e produtos Eletrônico possuem marca e modelo.
@@ -38,7 +43,7 @@ O projeto segue o padrão MVC (Model-View-Controller), dividido em pacotes:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-produtos.git
+   git clone https://github.com/Tetzdesen/sistema-produtos.git
    ```
 2. Compile o código:
    ```bash
