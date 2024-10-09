@@ -1,4 +1,4 @@
-# Sistema Gerenciamento De Estoque
+# Sistema Gerenciamento De Produtos
 
 Este é um sistema de gerenciamento de produtos desenvolvido em Java, utilizando conceitos de Programação Orientada a Objetos (POO), como herança, polimorfismo e interfaces. O sistema permite o cadastro, pesquisa, exclusão, alteração e listagem de produtos, com interface gráfica construída com a biblioteca Swing, seguindo o padrão de arquitetura MVC.
 
